@@ -41,8 +41,7 @@
     "react-redux": "^8.0.4",
     "redux": "^4.2.0",
     "redux-flipper": "^2.0.2",
-    "redux-persist": "^6.0.0",
-    "yarn": "^1.22.19"
+    "redux-persist": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
