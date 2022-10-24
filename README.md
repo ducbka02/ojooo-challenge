@@ -15,19 +15,28 @@ Run iOS Project.
 
 ```shell
 $ yarn ios
+```
 
 Run Android Project.
+
+```shell
 $ yarn android
+```
 
 See Structure and Schema of Question an Answer at [here](./src/stores/Query/types.d.ts). <br>
-SurveyComponent [here](./src/components/app/SurveyComponent/index.tsx). <br>
+SurveyComponent [here](./src/components/app/SurveyComponent/index.tsx).
 
 <h3>Preview</h3>
 <img src="./demo/demo.gif">
 
 ## Authors and acknowledgment
+
 Duc Nguyen.
 
 ## License
+
 Duc Nguyen License.
+
+```
+
 ```
