@@ -25,6 +25,7 @@ $ yarn android
 
 See Structure and Schema of Question and Answer at [here](./src/stores/Query/types.d.ts). <br>
 SurveyComponent [here](./src/components/app/SurveyComponent/index.tsx).
+Sample Data [here](./src/services/data.ts).
 
 <h3>Preview</h3>
 <img src="./demo/demo.gif">
