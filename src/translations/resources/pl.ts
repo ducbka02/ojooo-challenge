@@ -8,5 +8,8 @@ export default {
     minute: 'minute',
     delete: 'Delete',
     not_available: 'Feature not available',
+    submit: 'Submit',
+    my_answers: 'My Answers',
+    question: 'Question',
   },
 }
