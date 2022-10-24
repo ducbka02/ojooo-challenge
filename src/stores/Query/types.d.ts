@@ -1,9 +1,3 @@
-interface QuizResponse {
-  timeStart: number
-  listQuestion: Question[]
-  gameHistoryId: string
-}
-
 interface Question {
   _id: string
   content: string
