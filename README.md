@@ -23,7 +23,7 @@ Run Android Project.
 $ yarn android
 ```
 
-See Structure and Schema of Question an Answer at [here](./src/stores/Query/types.d.ts). <br>
+See Structure and Schema of Question and Answer at [here](./src/stores/Query/types.d.ts). <br>
 SurveyComponent [here](./src/components/app/SurveyComponent/index.tsx).
 
 <h3>Preview</h3>
