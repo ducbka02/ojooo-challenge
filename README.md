@@ -24,7 +24,7 @@ $ yarn android
 ```
 
 See Structure and Schema of Question and Answer at [here](./src/stores/Query/types.d.ts). <br>
-SurveyComponent [here](./src/components/app/SurveyComponent/index.tsx).
+SurveyComponent [here](./src/components/app/SurveyComponent/index.tsx). <br>
 Sample Data [here](./src/services/data.ts).
 
 <h3>Preview</h3>
