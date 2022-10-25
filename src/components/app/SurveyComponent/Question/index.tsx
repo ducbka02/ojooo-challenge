@@ -5,7 +5,6 @@ import { useTheme } from '@/theme'
 import { Touchable, Text } from '@/components'
 
 export type Props = {
-  answers: { [key: number]: Answer[] }
   data: Question
   answersComponent: React.ReactNode
   canGoNext: boolean

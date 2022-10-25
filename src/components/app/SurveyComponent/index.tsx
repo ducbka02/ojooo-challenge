@@ -346,7 +346,6 @@ const SurveyComponent: React.FC<Props> = ({ questions }) => {
     return (
       <QuestionComponent
         data={item}
-        answers={answers}
         canGoNext={canGoNext}
         hasSelectedAllAnswers={hasSelectedAllAnswers}
         goNextQuestion={goNextQuestion}
