@@ -7,7 +7,6 @@ import { Touchable, Text } from '@/components'
 export type Props = {
   answers: { [key: number]: Answer[] }
   data: Question
-  currentQuestionIndex: number
   answersComponent: React.ReactNode
   canGoNext: boolean
   hasSelectedAllAnswers: boolean
