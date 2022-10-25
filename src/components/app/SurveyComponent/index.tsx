@@ -342,7 +342,7 @@ const SurveyComponent: React.FC<Props> = ({ questions }) => {
     }
   }
 
-  const renderQuestion: ListRenderItem<Question> = ({ item, index }) => {
+  const renderQuestion: ListRenderItem<Question> = ({ item }) => {
     return (
       <QuestionComponent
         data={item}
